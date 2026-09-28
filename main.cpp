@@ -1,16 +1,5 @@
 // Compiler: GCC (g++) 15.2.0, MSYS2
 // C++ standard: C++23
-//
-// Input file format:
-//
-// Line 1:
-// N - natural number, the number of values to generate.
-// Line 2:
-// Different integer values separated by spaces.
-// Line 3:
-// Non-negative integer frequencies separated by spaces.
-// The number of frequencies must be equal to the number of values.
-// At least one frequency must be greater than zero.
 
 #include "weighted_random.h"
 
